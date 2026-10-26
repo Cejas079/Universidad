@@ -35,11 +35,11 @@ public class VeetCare{
         int opcion;
 
         do {
-            System.out.println("\n--- SISTEMA VETCARE (CLINICA HUELLITAS) ---");
+            System.out.println("\n--- SISTEMA VETCARE ---");
             System.out.println("1. Registrar Mascota y Dueño");
-            System.out.println("2. Agendar Turno / Cita");
+            System.out.println("2. Agendar Turno o Cita");
             System.out.println("3. Consultar Cita por ID de Mascota");
-            System.out.println("4. Ver Sala de Espera (Turnos activos)");
+            System.out.println("4. Ver Sala de Espera");
             System.out.println("5. Atender Paciente (Crear Historia y Eliminar Turno)");
             System.out.println("6. Consultar Historia Clinica por ID de Mascota");
             System.out.println("7. Salir");
